@@ -7,6 +7,10 @@ Learning about Cloud Native technologies.
 
 Utilizing any materials or components presented within the production environment is not recommended. Furthermore, it should be noted that no support is available for such implementations.
 
+# My setup
+
+Apple m1 Air 16GB
+
 # Changelog
 
 - [25/07/2023] Project start
