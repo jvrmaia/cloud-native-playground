@@ -9,7 +9,14 @@ Utilizing any materials or components presented within the production environmen
 
 # My setup
 
+## Machine
+
 Apple m1 Air 16GB
+
+## Development
+
+- [Code](https://code.visualstudio.com/)
+- [Docker with Kubernetes 1.27.2](https://docs.docker.com/get-started/kube-deploy/)
 
 # Changelog
 
