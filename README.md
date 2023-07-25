@@ -1,4 +1,4 @@
-CloudNative playground
+Cloud Native playground
 ----
 
 Learning about Cloud Native technologies.
